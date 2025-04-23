@@ -322,7 +322,7 @@ export default function CoursePlayer() {
           </div>
 
           {/* Course Materials Cards */}
-          <div className="bg-white rounded-xl p-6 shadow-xl mb-6">
+          <div className="bg-white rounded-xl p-6 shadow-xl mb-6 shadow-gray-300">
             <div className="grid grid-cols-2 gap-4">
               <div className="flex items-center gap-2">
                 <div className="w-6 h-6 flex items-center justify-center text-gray-500">
